@@ -34,7 +34,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: '最終更新日',
+    lastUpdated: 'Last update(JST=UTC+9)',
     nav: [
       {
         text: 'About',
