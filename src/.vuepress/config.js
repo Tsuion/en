@@ -50,7 +50,7 @@ module.exports = {
       },
       {
         text: '日本語',
-        link: 'https:tsuion.github.io/'
+        link: 'https://tsuion.github.io/'
       }
     ],
   },
