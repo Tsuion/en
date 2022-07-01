@@ -3,36 +3,36 @@ sidebar: auto
 ---
 
 # About me
-こんにちは。wowaneと申します。
+Hello, my name is "wowane".
 :::tip
-これはあくまでも"wowane"の情報であって、中の人の情報とは異なる場合があります。いわば設定資料です。
+This is only "wowane" information, and may differ from the information of the people inside. This is just a setting document so to speak.
 :::
-## 基本情報
-|項目|詳細|
+## Profile
+|Item|Details|
 |----|----|
-|名前|荻窪りょう(wowane)|
-|性別|不詳|
-|年齢|中学生(だといわれている)|
-|血液型|AB型|
-## 性格
-表面上は優しいが、穏やかな口調で辛辣な発言が目立つ。  
-血のつながりに対する愛や、小動物に対する愛しさ、植物に対する慈しみなど人間が当たり前に備えているはずの感情に欠けている。
-## 好きなこと・もの
-- 平安時代
-- ボカロ
-- ヒトリエ
-- プロセカ
-- 幾何
-- 刺繍
-- カカオ分の高いチョコレート
-- 鮭とば
-- ルービックキューブ
-- 読書
-## 嫌いなこと・もの
-- バカ
-- 幕末
-- ラップ(音楽ジャンル)
-- 歌い手
-- 地理
-- 生のトマト
-- 酢の物
+|Name|Ryo Ogikubo(wowane)|
+|Gender|Unknown|
+|Age|Jonior high school student|
+|BloodType|AB|
+## Character
+On the surface, they is gentle, but them gentle tone is marked by harsh remarks.  
+They lacks the love of blood, love for small animals, compassion for plants, and other emotions that humans should have as a matter of course.
+## Likes
+- Heian period (794-1185)
+- Vocaloid
+- Hitorie
+- Colorful Stage
+- Geometry
+- Embroidery
+- High cocoa chocolate
+- Salmon and barbecue
+- Rubik's Cube
+- Reading
+## Hates
+- Fools
+- Bakumatsu period
+- Rap (music genre)
+- Singer (--We sometimes call them Utaite.)
+- Geography
+- Raw tomatoes
+- Vinegar
