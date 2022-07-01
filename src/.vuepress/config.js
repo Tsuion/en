@@ -40,10 +40,6 @@ module.exports = {
         link: '/about/',
       },
       {
-        text: 'Blog',
-        link: '/blog/'
-      },
-      {
         text: 'Project',
         link: '/project/'
       },
@@ -52,18 +48,6 @@ module.exports = {
         link: '/link/'
       }
     ],
-    sidebar: {
-      '/blog/': [
-        {
-          title: 'Blog',
-          collapsable: false,
-          children: [
-            '',
-            '20220611',
-          ]
-        }
-      ],
-    }
   },
 
   /**
