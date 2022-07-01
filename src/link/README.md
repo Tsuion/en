@@ -2,7 +2,10 @@
 sidebar: auto
 ---
 # Link
-## 各種サイトへのリンク
+:::tip
+Linked sites may be in Japanese.
+:::
+## Links to various websites
 - Twitter  
 [@Tsuion_dev](https://twitter.com/Tsuion_dev)
 - GitHub  
@@ -13,4 +16,4 @@ sidebar: auto
 [@wowane](https://groundpolis.app/@wowane)
 - pixiv  
 [@wowane](https://pixiv.me/wowane)
-## 相互リンク
+## Reciprocal link
