@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /wowane角丸.png
+heroImage: /wowane角丸.jpg
 tagline: 
 actionText: Go→
 actionLink: /about/
